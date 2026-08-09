@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 // ===============================
 // MOBILE NAVBAR TOGGLE
 // ===============================
@@ -530,4 +530,4 @@ document.addEventListener("DOMContentLoaded", () => {
     revealOnScroll();
 
 });
->>>>>>> 0a32c6ba6b65af8b397c6f70c0a4dff59dace62d
+
